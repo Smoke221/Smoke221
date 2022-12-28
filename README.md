@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Anil Reddy
-<!-- - 👀 I’m interested in ... -->
-- 🌱 I’m currently learning Advance Javascript
-<!-- - 💞️ I’m looking to collaborate on ... -->
+Hey there
+I'm Anil Reddy, a passionate Full Stack Web Developer and a student of Masai School. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true
 - 📫 How to reach me kanilreddy867@gmail.com
 
 <!---
