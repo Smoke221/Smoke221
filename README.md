@@ -8,7 +8,9 @@ You can have a look at my projects that I have done in Masai Scool :school: .
 
 As a front-end enthusiast, I’m working on a repo that has a few things that you can use. If you're interested take a look here - https://github.com/Smoke221/Things-for-front-end
 
- ![alt text](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true)
+<p align="right">
+ <img width="50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
+</p>
  
  Languages and Tools: 
  
