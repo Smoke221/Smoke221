@@ -1,5 +1,5 @@
 # Hey there, I'm Anil :smiley:
-Hello, my name is Anil Reddy, a passionate Full Stack Web Developer and a student of Masai School. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hello, my name is Anil Reddy, a passionate Full Stack Web Development student of Masai School. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 
 You can have a look at my projects that I have done in Masai Scool :school: .
