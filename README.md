@@ -22,7 +22,7 @@ As a front-end enthusiast, I’m working on a repo that has a few things that yo
  - Github
 
  📫  You can contact me here kanilreddy867@gmail.com 
- LinkedIn - `https://www.linkedin.com/in/anil-reddy-b2a364169/`
+ LinkedIn - https://www.linkedin.com/in/anil-reddy-b2a364169/
 
 <!---
 Smoke221/Smoke221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
