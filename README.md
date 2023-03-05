@@ -14,6 +14,28 @@ As a front-end enthusiast, I’m working on a repo that has a few things that yo
  <img width="50%" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true">
 </p>
  
+ 
+ <div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Smoke221&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Smoke221&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Smoke221&show_icons=true" />
+</picture>
+</div>
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoke221&layout=compact)](https://github.com/Smoke221/github-readme-stats)
+
+ 
+
+
+
+ 
  Languages and Tools: 
  
  - JavaScript 
@@ -23,6 +45,7 @@ As a front-end enthusiast, I’m working on a repo that has a few things that yo
 
  📫  You can contact me here kanilreddy867@gmail.com 
  LinkedIn - https://www.linkedin.com/in/anil-reddy-b2a364169/
+ 
 
 <!---
 Smoke221/Smoke221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
