@@ -30,6 +30,8 @@ As a front-end enthusiast, I’m working on a repo that has a few things that yo
 </div>
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smoke221&layout=compact)](https://github.com/Smoke221/github-readme-stats)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Smoke221&theme=default)](https://git.io/streak-stats)
 
  
 
