@@ -10,16 +10,10 @@ I'm an aspiring Full-Stack Web Developer with a flair for crafting digital wonde
 
 - **Photography Booking System:** Capturing memories one click at a time. [Explore it here](https://bookmyshoot.netlify.app/)
 
-- **Code Doctor:** Your one-stop solution for code ailments. [Check it out](https://taupe-alpaca-790818.netlify.app/)
+- **Analyzy:** Your one-stop solution for analyzing documents. [Check it out](https://analyzy.vercel.app/)
 
-- **Revive Beauty:** A digital spa for your senses. [Experience it](https://bucolic-pixie-2fe8a5.netlify.app/)
 
-## More projects
-- **ZipZapURL:** An URL Shortner.  [Try it out](https://zipzapurl.netlify.app/)
-- **E-Commerce-API-Backend:**  [Documentation](https://e-commerce-api-with-node-js.onrender.com/api-docs/)
-
-While I believe there's always room for growth :construction_worker:, I'm constantly enhancing my skills. As a front-end enthusiast, I'm curating a repository filled with treasures for fellow developers. Feel free to explore it [here](https://github.com/Smoke221/Things-for-front-end).
-
+While I believe there's always room for growth :construction_worker:, I'm constantly enhancing my skills.
 <!-- ![Coding GIF](https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true) -->
 
 ## My Arsenal of Languages and Tools
